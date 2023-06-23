@@ -1,0 +1,2 @@
+-std=c++20
+-I/Users/barter/Documents/vcpkg/installed/x64-osx/include
